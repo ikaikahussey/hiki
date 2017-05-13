@@ -1,7 +1,8 @@
+.entry-content {margin-top: 50px;}
 .entry-content img {max-width:100%;height: auto;}
 a {color: #18a924;}
 .entry-content img {max-width:100%;}
-.container-fluid {padding:0px 25px;}
+.container-fluid {padding:0px 40px;}
 a:hover {text-decoration: underline;}
 .well {
 min-height: 20px;
