@@ -15,4 +15,8 @@ border-radius: 4px;
 box-shadow: inset 0 1px 1px rgba(244, 222, 187, 1);
 }
 
-li.pagenav, li.pagenav ul, li.pagenav ul li {list-style-type: none;}
+li.pagenav, li.pagenav ul, li.pagenav ul li {
+list-style-type: none;
+font-size: small;
+font-weight: bold;
+}
