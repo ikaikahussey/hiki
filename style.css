@@ -26,3 +26,7 @@ aside#sidebar {background: #e7e7e7;
 padding: 20px;
 border-radius: 10px;}
 #main_container {margin-bottom: 20px;}
+hr {margin-top: 30px;
+margin-bottom: 30px;
+border: 0;
+border-top: 10px solid green;}
