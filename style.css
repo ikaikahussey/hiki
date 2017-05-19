@@ -35,5 +35,5 @@ border: 0;
 border-top: 10px solid #18a924;
 }
 
-body {border-top: #18a924 20px solid;border-bottom: #18a924 20px solid;}
+body {border-top: #18a924 20px solid;border-bottom: #18a924 20px solid;background-image: url(http://ikaikahussey.github.io/beige.png);}
 .label-default {background-color: #18a924;}
