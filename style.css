@@ -37,7 +37,7 @@ border-top: 10px solid #18a924;
 
 body {border-top: #18a924 20px solid;border-bottom: #18a924 20px solid;background-image: url(http://ikaikahussey.github.io/beige.png);}
 .label-default {background-color: #18a924;}
-nav#bottom_nav {background: rgba(255, 255, 255, 0.41);border-top:10px #18a924 solid;margin-top:20px;}
+nav#bottom_nav {background: rgba(255, 255, 255, 0.41);border-top:0px #18a924 solid;margin-top:20px;}
 .pager li>a, .pager li>span {border: 1px solid #18a924;}
-.navbar-default {border-bottom: 1px solid #18a924;}
+.navbar-default {border-bottom: 0px solid #18a924;}
 .pager li>a:hover {background: #18a924;color: white;}
