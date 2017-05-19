@@ -21,7 +21,7 @@ list-style-type: none;
 font-size: small;
 font-weight: bold;
 }
-h1.entry-title {margin-top: 0px;border-top: #18a924 10px solid; padding-top:5px;font-weight: bold;}
+h1.entry-title {margin-top: 0px;padding-top:5px;font-weight: bold;}
 aside#sidebar {background: #e7e7e7;
 padding: 20px;
 border-radius: 10px;}
@@ -31,5 +31,5 @@ margin-bottom: 30px;
 border: 0;
 border-top: 10px solid green;
 }
-body {border-top: #18a924 10px;border-bottom: #18a924 10px;}
+body {border-top: #18a924 20px solid;border-bottom: #18a924 20px solid;}
 .label-default {background-color: #18a924;}
