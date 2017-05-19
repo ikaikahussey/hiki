@@ -32,3 +32,4 @@ border: 0;
 border-top: 10px solid green;
 }
 body {border-top: #18a924 10px;border-bottom: #18a924 10px;}
+.label-default {background-color: #18a924;}
